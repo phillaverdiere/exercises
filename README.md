@@ -1,2 +1,2 @@
 # exercises
-Coding exercises from various sources
+Coding exercises from Learn Python the Hard Way
